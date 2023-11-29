@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coffe-post-ts-redux-tailwind-rtk/static/css/main.469076fc.css",
+    "main.js": "/coffe-post-ts-redux-tailwind-rtk/static/js/main.039f8886.js",
+    "index.html": "/coffe-post-ts-redux-tailwind-rtk/index.html",
+    "main.469076fc.css.map": "/coffe-post-ts-redux-tailwind-rtk/static/css/main.469076fc.css.map",
+    "main.039f8886.js.map": "/coffe-post-ts-redux-tailwind-rtk/static/js/main.039f8886.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469076fc.css",
+    "static/js/main.039f8886.js"
+  ]
+}
