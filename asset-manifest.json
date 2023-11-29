@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/coffe-post-ts-redux-tailwind-rtk/static/css/main.469076fc.css",
-    "main.js": "/coffe-post-ts-redux-tailwind-rtk/static/js/main.98c4602b.js",
+    "main.js": "/coffe-post-ts-redux-tailwind-rtk/static/js/main.d67c0e2e.js",
     "index.html": "/coffe-post-ts-redux-tailwind-rtk/index.html",
     "main.469076fc.css.map": "/coffe-post-ts-redux-tailwind-rtk/static/css/main.469076fc.css.map",
-    "main.98c4602b.js.map": "/coffe-post-ts-redux-tailwind-rtk/static/js/main.98c4602b.js.map"
+    "main.d67c0e2e.js.map": "/coffe-post-ts-redux-tailwind-rtk/static/js/main.d67c0e2e.js.map"
   },
   "entrypoints": [
     "static/css/main.469076fc.css",
-    "static/js/main.98c4602b.js"
+    "static/js/main.d67c0e2e.js"
   ]
 }
