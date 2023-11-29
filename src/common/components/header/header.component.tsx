@@ -3,7 +3,6 @@ import { Link, NavLink } from "react-router-dom";
 import { Container } from "../container/container.component";
 import clsx from 'clsx';
 import BurgerMenu from './burger-menu.component';
-import { easeInOut, motion } from 'framer-motion';
 
 interface HeaderProps {
 
